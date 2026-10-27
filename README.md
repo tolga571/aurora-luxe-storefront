@@ -13,18 +13,21 @@
 
 ### The ultra-fast, high-converting luxury e-commerce template engineered for Next.js 16, React 19, and modern headless backends.
 
-[🌐 **Explore Live Demo**](https://aurora.jumpertheme.com) • [⚡ **Get Source Code (50% Off: $24.50)**](https://4811631984616.gumroad.com/l/aurora-luxe-ecommerce/FIRST5) • [🛠️ **Turnkey Headless Setup ($1,500)**](https://4811631984616.gumroad.com/l/aurora-luxe-ecommerce)
+[🌐 **Explore Live Demo**](https://aurora.jumpertheme.com) • [⚡ **Get Source Code (50% Off: $24.50)**](https://jumpertheme.gumroad.com/l/aurora-luxe-ecommerce/FIRST5) • [🛠️ **Turnkey Headless Setup ($1,500)**](https://jumpertheme.gumroad.com/l/aurora-luxe-ecommerce)
 
 </div>
 
 ---
+
+> [!NOTE]
+> 🎁 **FREE RESOURCE**: Track your freelance clients, income, and invoices with the [Freelancer Client & Finance Hub ($0+)](https://jumpertheme.gumroad.com/l/wquiba). Free instant download!
 
 ## ⚡ Launch Special — Early-Bird Developer Discount
 
 > [!TIP]
 > **First 5 Developers Special**: Use promo code **`FIRST5`** at checkout on Gumroad to claim **50% OFF** the full commercial source code:
 >
-> 🛒 **[Claim Developer License for $24.50 (Regular $49)](https://4811631984616.gumroad.com/l/aurora-luxe-ecommerce/FIRST5)**
+> 🛒 **[Claim Developer License for $24.50 (Regular $49)](https://jumpertheme.gumroad.com/l/aurora-luxe-ecommerce/FIRST5)**
 >
 > *Includes full Next.js 16 source code, TypeScript types, 14 mock products, integration guides for Shopify/Medusa/Stripe, and perpetual commercial rights.*
 
@@ -110,7 +113,7 @@ aurora-luxe/
 
 ## 📦 What's Included in the Commercial Package?
 
-When you purchase the template on [Gumroad](https://4811631984616.gumroad.com/l/aurora-luxe-ecommerce/FIRST5):
+When you purchase the template on [Gumroad](https://jumpertheme.gumroad.com/l/aurora-luxe-ecommerce/FIRST5):
 1. **Full Production Source Code**: Complete Next.js 16 + React 19 + Tailwind v4 TypeScript repository.
 2. **Commercial License**: Build unlimited client projects or your own luxury brand.
 3. **Backend Integration Blueprints**: Step-by-step documentation for Shopify GraphQL, Stripe, and Medusa.
@@ -121,8 +124,8 @@ When you purchase the template on [Gumroad](https://4811631984616.gumroad.com/l/
 ## 🔗 Links & Support
 
 - 🌐 **Live Demo**: [https://aurora.jumpertheme.com](https://aurora.jumpertheme.com)
-- 🛒 **Gumroad Store**: [https://4811631984616.gumroad.com/l/aurora-luxe-ecommerce](https://4811631984616.gumroad.com/l/aurora-luxe-ecommerce)
-- 🎫 **50% Coupon Link**: [https://4811631984616.gumroad.com/l/aurora-luxe-ecommerce/FIRST5](https://4811631984616.gumroad.com/l/aurora-luxe-ecommerce/FIRST5)
+- 🛒 **Gumroad Store**: [https://jumpertheme.gumroad.com/l/aurora-luxe-ecommerce](https://jumpertheme.gumroad.com/l/aurora-luxe-ecommerce)
+- 🎫 **50% Coupon Link**: [https://jumpertheme.gumroad.com/l/aurora-luxe-ecommerce/FIRST5](https://jumpertheme.gumroad.com/l/aurora-luxe-ecommerce/FIRST5)
 - 💼 **Custom Enterprise / Turnkey Deployment ($1,500)**: Need a custom Shopify Headless setup in under 48 hours? Contact `gultekin.tolga571@gmail.com` or message via Gumroad.
 
 ---
